@@ -133,9 +133,9 @@ Given more time, I would further amend the project by:
 
 ## Author
 
-**Xavier Harvey**
-B.A. Mathematics & Computer Science, SUNY Purchase College
-Github: XavierHarvey77
+**Xavier Harvey** 
+| B.A. Mathematics & Computer Science, SUNY Purchase College
+| Github: XavierHarvey77
 
 ## License
 
