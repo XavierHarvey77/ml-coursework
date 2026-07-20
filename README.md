@@ -111,3 +111,37 @@ This project strengthened my understanding of:
 
 It also helped me think more carefully about how different model families can approach the same prediction task in different ways, and how empirical evaluation can reveal tradeoffs between interpretability, flexibility, and predictive performance.
 
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- scikit-learn
+- Matplotlib
+- Jupyter Notebook
+
+## Future Improvements
+
+Given more time, I would further amend the project by:
+- Using scikit-learn pipelines to prevent data leakage
+- Applying normalization for Lasso and Polynomial Regression
+- Testing additional train/test splits and cross-validation
+- Expanding feature engineering with richer text features
+- Comparing classification models against the regression framing
+- Adding a neural network baseline using PyTorch or Keras
+- Improving documentation and reproducibility
+
+## Author
+
+**Xavier Harvey**
+B.A. Mathematics & Computer Science, SUNY Purchase College
+Github: XavierHarvey77
+
+## License
+
+This project is licensed under the MIT License. See the **LICENSE** file for details.
+
+## Acknowledgments
+
+This project was completed as part of AI Fundamentals coursework, under the tutelage of Dr. Knarik Tunyan. The dataset was sourced from Kaggle, and external libraries were used for data processing, modeling, and evaluation.
+
